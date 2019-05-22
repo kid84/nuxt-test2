@@ -1,9 +1,5 @@
 <template>
   <div class="hoge">
-    hoge components
+    hoge components Typescript Test
   </div>
 </template>
-
-<script lang="ts">
-
-</script>
