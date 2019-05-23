@@ -2,7 +2,6 @@
   <section class="container">
     <div>
       <logo />
-      <hoge />
       <h1 class="title">
         nuxt-test2
       </h1>
@@ -27,12 +26,10 @@
 
 <script>
 import Logo from '~/components/Logo.vue'
-import hoge from '~/components/hoge.vue'
 
 export default {
   components: {
-    Logo,
-    hoge
+    Logo
   }
 }
 </script>
